@@ -1,4 +1,4 @@
-# arc-agent-orchestrator
+# Stigmetry Agent Orchestrator
 
 **Layer 4: Multi-Agent Revenue Splitting for Arc**
 
@@ -46,8 +46,8 @@ Orchestrate multi-agent teams with automatic USDC payment splitting on Arc block
 
 ```bash
 # Clone
-git clone https://github.com/sethoshi18/arc-agent-orchestrator.git
-cd arc-agent-orchestrator
+git clone https://github.com/Stigmetry/agent-orchestrator.git
+cd agent-orchestrator
 
 # Install
 npm install
@@ -102,10 +102,10 @@ npm run mcp
 
 | Repo | Layer | Description |
 |------|-------|-------------|
-| [arc-agent-payments](https://github.com/sethoshi18/arc-agent-payments) | 1+2 | ERC-8004 identity + ERC-8183 job escrow |
-| [arc-agent-market](https://github.com/sethoshi18/arc-agent-market) | 3 | RFP board + bid matching |
-| **arc-agent-orchestrator** | **4** | **Multi-agent revenue splits** |
-| [arc-agent-hub](https://github.com/sethoshi18/arc-agent-hub) | UI | Next.js marketplace frontend |
+| [Agent Payments](https://github.com/Stigmetry/agent-payments) | 1+2 | ERC-8004 identity + ERC-8183 job escrow |
+| [Agent Market](https://github.com/Stigmetry/agent-market) | 3 | RFP board + bid matching |
+| **Agent Orchestrator** | **4** | **Multi-agent revenue splits** |
+| [Agent Hub](https://github.com/Stigmetry/agent-hub-main) | UI | Next.js marketplace frontend |
 
 ---
 
